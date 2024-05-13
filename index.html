@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Dia das Mães</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <link rel="stylesheet" href="./style.css">
+  <script src="script.js"></script>
+
+</head>
+<body>
+  <!-- Títulos -->
+  <div class="sun slideIn pulse" id="sol" onclick="menssol()"></div>
+  <h1 class="fadeIn" id="dia-maes">Filiz dia das Mães!!!</h1><br>
+  <p class="fadeIn" id="p-maes">
+    Clique no Sol e saberá porque você é tão importante pra mim.
+  </p>
+
+  <div class="div-coracao" id="div-coracao">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="width: 35%; height: auto;" class="coracao pulse">
+      <path fill="red" d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/>
+      <p text-anchor="middle" style="position: absolute;" class="pulse" id="teamo">Te amo</p>
+    </svg>
+  </div>
+
+  <!-- Flores -->
+  <section class="flowers">
+    <div class="flower" onclick="mensflor1()">
+      <div class="flower_head" id="flor1"><div class="miolo" style="background: #7f40be;"></div></div>
+      <div class="flower_stem grow-12"></div>
+    </div>
+    <div class="flower" onclick="mensflor2()">
+      <div class="flower_head pink" id="flor2"><div class="miolo" style="background: #f35f93;"></div></div>
+      <div class="flower_stem grow-15"></div>
+    </div>
+    <div class="flower" onclick="mensflor3()">
+      <div class="flower_head red" id="flor3"><div class="miolo" style="background: #b82a1d;"></div></div>
+      <div class="flower_stem grow-12"></div>
+    </div><br>
+  </section>
+  
+  <div class="mens" id="mens"><b style="font-size: 20px;" onclick="ocultarmens()">X</b><p class="p-mens" id="p-mens"></p></div>
+</body>
+</html>
