@@ -1,7 +1,7 @@
-# Site de Homeenagem ao Dia das Mães
+# Site de Homenagem ao Dia das Mães
 Esse site foi criado com o intuito de ser uma homenagem para a minha mão, no dia das mães. Além de cumprir a primeira parte de uma atividade proposta na disciplina de Desenvolvimento Web I, durante a formação na Fatec.
 
-## 🚀 [Link do Site](https://luis-pedro-dutra-carrocini.github.io/Facilita-Matematica/)
+## 🚀 [Link do Site](https://luis-pedro-dutra-carrocini.github.io/Dia-Maes/index.html)
 
 
 ## 📦 Aparência
