@@ -283,4 +283,8 @@ p {
     width: 90%;
     padding: 5px;
   }
+
+  .p-mens{
+    font-size: 25px;
+  }
 }
