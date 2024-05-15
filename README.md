@@ -1,7 +1,9 @@
 # Site de Homenagem ao Dia das Mães
 Esse site foi criado com o intuito de ser uma simples homenagem a minha mãe, no dia das mães. Além de cumprir a primeira parte de uma atividade proposta na disciplina de Desenvolvimento Web I, durante a formação no curso DSM na Fatec. A qual solicita que seja feito uma animação utilizando HTML, CSS e JavaScript.
 
-## 🚀 [Link do Site](https://luis-pedro-dutra-carrocini.github.io/Dia-Maes/index.html)
+## 🚀 [Link do Site no Ar](https://luis-pedro-dutra-carrocini.github.io/Dia-Maes/index.html)
+
+## 🚀 [Link do CodePen](https://codepen.io/Lu-s-Pedro/pen/RwmNapY)
 
 
 ## 📦 Aparência
