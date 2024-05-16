@@ -8,7 +8,7 @@ Esse site foi criado com o intuito de ser uma simples animação que serve como 
 
 ## 📦 Aparência
 
-<img src="/prints/dia-maes.gif" width='50%'>
+<img src="/prints/dia-maes.gif">
 
 ## 🚀 Começando
 
