@@ -31,7 +31,7 @@ function mensflor2(){
     document.getElementById('p-mens').innerHTML = 'Por que eu te amo? <br><br> Te amo porque você sempre me protejeu, do frio e do calor, quando eu era bebe e não conseguia nem mesmo me trocar. <br> Me protegeu dos perigos do mundo, quando me dava a mão para atravessar a rua, ou quando me impedia de maxucar a mim mesmo. <br> Te amo porque você sempre me ajudou em tudo, nas lições da escola e em tantas outras situações. <br> Me ensinou a ter educação, responsabilidade e determinação. <br> Quando me dizem que sou uma boa pessoa, isso não é graças a mim mesmo, mas sim a você e ao papai que sempre me ensinaram o que é certo.<br><br>';
     document.getElementById('flor3').classList.add('pulse');
     document.getElementById('flor2').classList.remove('pulse');
-    document.getElementById('p-maes').innerHTML = 'Clique na segunda flor e saberá a terceira razão de eu te amar.';
+    document.getElementById('p-maes').innerHTML = 'Clique na terceira flor e saberá a terceira razão de eu te amar.';
 }
 
 function mensflor3(){
